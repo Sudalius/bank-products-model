@@ -1,6 +1,6 @@
-package ru.sber.products.builders;
+package ru.bank.products.builders;
 
-import ru.sber.products.model.*;
+import ru.bank.products.model.*;
 
 public class BankProductFactory {
 

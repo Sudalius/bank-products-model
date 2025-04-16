@@ -1,6 +1,4 @@
-package ru.sber.products.model;
-
-import lombok.Getter;
+package ru.bank.products.model;
 
 import lombok.Getter;
 

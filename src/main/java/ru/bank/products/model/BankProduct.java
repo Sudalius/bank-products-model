@@ -1,4 +1,4 @@
-package ru.sber.products.model;
+package ru.bank.products.model;
 
 public interface BankProduct {
     String getName();

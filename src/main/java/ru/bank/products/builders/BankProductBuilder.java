@@ -1,4 +1,4 @@
-package ru.sber.products.builders;
+package ru.bank.products.builders;
 
 import lombok.Builder;
 import lombok.Getter;

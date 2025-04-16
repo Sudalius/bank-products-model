@@ -1,8 +1,8 @@
 import lombok.extern.log4j.Log4j2;
 import org.junit.jupiter.api.Test;
-import ru.sber.products.builders.BankProductBuilder;
-import ru.sber.products.builders.BankProductFactory;
-import ru.sber.products.model.DebitCard;
+import ru.bank.products.builders.BankProductBuilder;
+import ru.bank.products.builders.BankProductFactory;
+import ru.bank.products.model.DebitCard;
 
 import static org.junit.jupiter.api.Assertions.*;
 
